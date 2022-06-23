@@ -25,4 +25,15 @@ Introducción
 
 ---------
 ---------
-❗
+
+❗I'm not working on any projects at the moment.
+
+-----
+-----
+
+❗Não estou trabalhando em nenhum projeto no momento.
+
+-----
+-----
+
+❗No estoy trabajando en ningún proyecto en este momento.
