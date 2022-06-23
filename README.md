@@ -33,7 +33,7 @@ Introducción
 
 ❗Não estou trabalhando em nenhum projeto no momento.
 
------
------
+------
+------
 
 ❗No estoy trabajando en ningún proyecto en este momento.
