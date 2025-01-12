@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CBDF1E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Geovana+Souza;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # 💫 About Me:
-# Sobre mim<br><br>- Código é vida, bugs são aventuras. 🎢🐞  <br>- Quando não estou codando, estou pensando no próximo bug. 🤷‍♀️  <br>- "Funciona na minha máquina" é meu lema. 🖥️👌  <br>- Especialista em CTRL+C e CTRL+V (mas só onde pode!). 📋🚀  <br><br># About Me  <br><br>- Code is life, bugs are adventures. 🎢🐞  <br>- When I’m not coding, I’m thinking about the next bug. 🤷‍♀️  <br>- "It works on my machine" is my motto. 🖥️👌  <br>- Expert in CTRL+C and CTRL+V (but only where it’s allowed!). 📋🚀  <br><br>
+ Sobre mim<br><br>
+- Código é vida, bugs são aventuras. 🎢🐞  <br>- Quando não estou codando, estou pensando no próximo bug. 🤷‍♀️  <br>- "Funciona na minha máquina" é meu lema. 🖥️👌  <br>- Especialista em CTRL+C e CTRL+V (mas só onde pode!). 📋🚀  <br><br>
+About Me  <br><br>- Code is life, bugs are adventures. 🎢🐞  <br>- When I’m not coding, I’m thinking about the next bug. 🤷‍♀️  <br>- "It works on my machine" is my motto. 🖥️👌  <br>- Expert in CTRL+C and CTRL+V (but only where it’s allowed!). 📋🚀  <br><br>
 
 
 ## 🌐 Socials:
