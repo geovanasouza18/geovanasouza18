@@ -2,12 +2,36 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CBDF1E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Geovana+Souza;I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-# 💫 About Me:
- # Sobre mim<br><br>
-- Código é vida, bugs são aventuras. 🎢🐞  <br> - Quando não estou codando, estou pensando no próximo bug. 🤷‍♀️  <br> - "Funciona na minha máquina" é meu lema. 🖥️👌  <br> - Especialista em CTRL+C e CTRL+V (mas só onde pode!). 📋🚀  <br><br>
+# 💫 About Me
 
-# About Me  <br><br>
-- Code is life, bugs are adventures. 🎢🐞  <br>- When I’m not coding, I’m thinking about the next bug. 🤷‍♀️  <br>- "It works on my machine" is my motto. 🖥️👌  <br>- Expert in CTRL+C and CTRL+V (but only where it’s allowed!). 📋🚀  <br><br>
+## 🇧🇷 Sobre mim
+
+Transformo problemas em código e bugs em pistas. 🕵️‍♀️🐞  
+Desenvolvedora de software movida por curiosidade, lógica e boas xícaras de café ☕
+
+### 🛠️ No que estou trabalhando
+- Em processo de aprendizado em backend, construindo enquanto estudo  
+- Transformando teoria em prática, projeto por projeto  
+- Cada bug é uma hipótese esperando ser testada  
+
+### 🧠 Mentalidade
+Código não é mágica. É investigação. 🔎💻
+
+---
+
+## 🇬🇧 About Me
+
+I turn problems into code and bugs into clues. 🕵️‍♀️🐞  
+A software developer driven by curiosity, logic, and well-timed coffee breaks ☕
+
+### 🛠️ What I’m working on
+- Currently focusing on backend development, learning by building  
+- Turning theory into practice, one project at a time  
+- Every bug is a hypothesis waiting to be tested  
+
+### 🧠 Mindset
+Code isn’t magic. It’s investigation. 🔍💻
+
 
 
 ## 🌐 Socials:
